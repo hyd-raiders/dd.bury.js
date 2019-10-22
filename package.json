@@ -1,0 +1,26 @@
+{
+  "name": "dd.bury",
+  "version": "1.0.0",
+  "description": "bury for dd",
+  "main": "index.js",
+  "dependencies": {
+    "mixpanel-browser": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyd-raiders/dd.bury.js.git"
+  },
+  "keywords": [
+    "bury"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyd-raiders/dd.bury.js/issues"
+  },
+  "homepage": "https://github.com/hyd-raiders/dd.bury.js#readme"
+}
